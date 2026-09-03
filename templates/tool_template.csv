@@ -1,0 +1,2 @@
+﻿type;vendor;description;name;product_link;material;coating;coolant_type;overall_length;shank_length;shank_dia;shoulder_length;shoulder_dia;nr_flutes;flute_length;flute_dia;tip_dia;tip_angle;tip_length;angle;corner_radius;thread_pitch;thread_profile_angle;thread_nr_teeth;taper_dia;taper_angle;preset_name;spindle;feed_xy;feed_z;feed_in;feed_out;clockwise;protrusion;tapered_type;unit
+flat end mill;;;;;carbide;None;Mist;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60;0;0;0;Default;10000;300;100;150;300;TRUE;0;None;millimeters
