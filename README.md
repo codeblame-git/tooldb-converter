@@ -9,7 +9,7 @@ This allows tool manufacturers and users, using any office spreadsheet tool or e
 for export to SWCAM and HSM without having to care about the quirks of the different formats and the interpretation/formatting of values.
 
 Please understand that there are limitations to the extent this tool can work: missing or incompatible information is approximated or
-substituted to fit the data requirements of the target format.
+substituted to fit the data requirements of the target format. This also applies to the 3d body model of tools in HSM.
 
 Not all tool types of a platform may be possible to convert to the other. 
 This application currently focuses mainly on 'normal' mills for desktop cnc and hobby users.
@@ -35,7 +35,7 @@ conda create --name <env> --file conda_env_req.txt
 
 ### Libraries
 
-For libraries see the _libraries_ branch.
+For libraries see the https://github.com/codeblame-git/tooldb-libraries repository.
 
 ### Usage
 
